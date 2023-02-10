@@ -1,7 +1,7 @@
 import openai
 
 #OpenAI API key
-openai.api_key = "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"
+openai.api_key = "INSERT API KEY HERE"
 
 #Function for OpenAI prompts / responses
 def generate_response(prompt):
