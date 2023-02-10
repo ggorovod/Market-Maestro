@@ -10,7 +10,7 @@ import pandas as pd
 
 
 #API Key for newsAPIs
-newsapi = NewsApiClient(api_key='4fde5b55efb247e6858a71d756d25fa6')
+newsapi = NewsApiClient(api_key='INSERT API KEY HERE')
 
 #NewsAPI funtion 
 def sentiment(input):
