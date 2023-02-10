@@ -1,5 +1,5 @@
 import streamlit as st
-import Home
+from Modules import Home
 
 #Css styling 
 with open('style.css') as f:
