@@ -1,0 +1,17 @@
+credentials:
+  usernames:
+    azam:
+      email: jivazam@gmail.com
+      name: Azam Jiva
+      password: $2b$12$ALNQIad61iKjYwocgjPKSO9dNzEwJ2/VWwtL54GtOZgSVRnmhtH0i
+    Herman:
+      email: rbriggs@gmail.com
+      name: Herman Gorovodskiy
+      password: $2b$12$JlhPf.ERQqa6ZUigdzviJ.AqVJtc3y0ihe5No1vEwkvJICL6XNKHG # To be replaced with hashed password
+cookie:
+  expiry_days: 30
+  key: some_signature_key
+  name: some_cookie_name
+preauthorized:
+  emails:
+  - melsby@gmail.com
