@@ -2,8 +2,8 @@ import streamlit as st
 from Modules import Home
 
 #Css styling 
-with open('style.css') as f:
-    st.markdown(f'<style>{f.read()}</style>', unsafe_allow_html=True)
+# with open('style.css') as f:
+#     st.markdown(f'<style>{f.read()}</style>', unsafe_allow_html=True)
 
 #Title on the main page
 st.title("Market Maestro 🤖")
