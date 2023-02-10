@@ -7,7 +7,7 @@ credentials:
     Herman:
       email: rbriggs@gmail.com
       name: Herman Gorovodskiy
-      password: $2b$12$JlhPf.ERQqa6ZUigdzviJ.AqVJtc3y0ihe5No1vEwkvJICL6XNKHG # To be replaced with hashed password
+      password: $2b$12$JlhPf.ERQqa6ZUigdzviJ.AqVJtc3y0ihe5No1vEwkvJICL6XNKHG 
 cookie:
   expiry_days: 30
   key: some_signature_key
