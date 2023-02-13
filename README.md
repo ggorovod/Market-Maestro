@@ -55,7 +55,7 @@ To run the code open a terminal window in the envoronment that contains the requ
 
 The command should open the app.py file which contains all the modules with the code for the app. From there you can explore the app and its workings. 
 
-In the app you are able to open several tabs and communicate with a chatbot in the text window. IN the OpenAI tab you will be able to interact with the ChatGPT bot. In the sentiment tab you will be able to get sentiment scores for stocks and in the trade tab you will be able to request buy and sell orders of US stocks. The Crypot scan tab allows you to request current crypto prices. 
+In the app you are able to open several tabs and communicate with a chatbot in the text window. In the OpenAI tab you will be able to interact with the ChatGPT bot. In the sentiment tab you will be able to get sentiment scores for stocks and in the trade tab you will be able to request buy and sell orders of US stocks. The Crypto Scan tab allows you to request current crypto prices. 
 
 ---
 
